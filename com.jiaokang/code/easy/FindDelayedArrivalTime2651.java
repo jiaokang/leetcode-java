@@ -1,11 +1,11 @@
-package code;
+package code.easy;
 
 /**
  * @ Author     ：焦康
  * @ Date       ：Created in 15:05 2023-04-27
  * @ Description：
  */
-public class FindDelayedArrivalTime01 {
+public class FindDelayedArrivalTime2651 {
     /**
      * 计算列车到站时间
      * 给你一个正整数 arrivalTime 表示列车正点到站的时间（单位：小时），另给你一个正整数 delayedTime 表示列车延误的小时数。
